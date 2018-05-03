@@ -7,7 +7,7 @@
 		"uuidString": "0C0FCEC7-A492-4797-893A-A8BDC1385EE8"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/404.html": {
 		"cB": 0,
@@ -194,6 +194,7 @@
 	"\/assets\/img\/designstudio\/janpersielframed.jpg": {
 		"ft": 16384,
 		"iS": 137392,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/designstudio\/janpersielframed.jpg",
 		"oF": 0,
@@ -204,6 +205,7 @@
 	"\/assets\/img\/designstudio\/janpersiellarge.jpg": {
 		"ft": 16384,
 		"iS": 161415,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/designstudio\/janpersiellarge.jpg",
 		"oF": 0,
@@ -214,6 +216,7 @@
 	"\/assets\/img\/designstudio\/netzwerk.jpg": {
 		"ft": 16384,
 		"iS": 93684,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/designstudio\/netzwerk.jpg",
 		"oF": 0,
@@ -408,6 +411,7 @@
 	"\/assets\/img\/referenzen\/breuninger-3devices-home.jpg": {
 		"ft": 16384,
 		"iS": 219408,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/breuninger-3devices-home.jpg",
 		"oF": 0,
@@ -418,6 +422,7 @@
 	"\/assets\/img\/referenzen\/breuninger-logo-740.jpg": {
 		"ft": 16384,
 		"iS": 64884,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/breuninger-logo-740.jpg",
 		"oF": 0,
@@ -428,6 +433,7 @@
 	"\/assets\/img\/referenzen\/desknet-logo-740.jpg": {
 		"ft": 16384,
 		"iS": 25256,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/desknet-logo-740.jpg",
 		"oF": 0,
@@ -438,6 +444,7 @@
 	"\/assets\/img\/referenzen\/desknet-screens.jpg": {
 		"ft": 16384,
 		"iS": 238703,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/desknet-screens.jpg",
 		"oF": 0,
@@ -448,6 +455,7 @@
 	"\/assets\/img\/referenzen\/fashback-logo-740.jpg": {
 		"ft": 16384,
 		"iS": 33438,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/fashback-logo-740.jpg",
 		"oF": 0,
@@ -458,6 +466,7 @@
 	"\/assets\/img\/referenzen\/fashback-screens.jpg": {
 		"ft": 16384,
 		"iS": 99645,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/fashback-screens.jpg",
 		"oF": 0,
@@ -468,6 +477,7 @@
 	"\/assets\/img\/referenzen\/galeria-3devices.jpg": {
 		"ft": 16384,
 		"iS": 183067,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/galeria-3devices.jpg",
 		"oF": 0,
@@ -478,6 +488,7 @@
 	"\/assets\/img\/referenzen\/galeria-logo-740.jpg": {
 		"ft": 16384,
 		"iS": 32604,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/galeria-logo-740.jpg",
 		"oF": 0,
@@ -488,6 +499,7 @@
 	"\/assets\/img\/referenzen\/granit-screens.jpg": {
 		"ft": 16384,
 		"iS": 148137,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/granit-screens.jpg",
 		"oF": 0,
@@ -498,6 +510,7 @@
 	"\/assets\/img\/referenzen\/granitparts-logo-740.jpg": {
 		"ft": 16384,
 		"iS": 24170,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/referenzen\/granitparts-logo-740.jpg",
 		"oF": 0,
@@ -664,7 +677,8 @@
 	"creationDate": 537100892,
 	"displayValue": "persiel.com v12",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-confession"
+	"iconImageName": "\/apple-touch-icon-precomposed.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -672,6 +686,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -1235,6 +1250,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -2462,6 +2481,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
