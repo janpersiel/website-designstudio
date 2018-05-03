@@ -667,6 +667,13 @@
 		"oA": 0,
 		"oAP": "\/referenzen\/kaufhof.html",
 		"oF": 0
+		},
+	"\/robots.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/robots.txt",
+		"oF": 0
 		}
 	},
 "hooks": [
