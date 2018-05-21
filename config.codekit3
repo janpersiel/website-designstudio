@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/404.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -537,6 +544,13 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/datenschutz.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/datenschutz.html",
+		"oF": 0
 		},
 	"\/designstudio\/index.html": {
 		"cB": 0,
