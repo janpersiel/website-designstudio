@@ -44,6 +44,14 @@
     text-align: left;
   }
 
+  &.kontakt {
+    background: lighten($magma, 10) url(/assets/img/hafenhamburg.jpg) 10% 25% no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 480px;
+    text-align: left;
+  }
+
   &.netzwerk {
     background: lighten($magma, 10) url(/assets/img/designstudio/netzwerk.jpg) center center no-repeat;
     background-size: cover;
