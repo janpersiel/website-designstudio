@@ -5,7 +5,6 @@ Allow: /designstudio
 Allow: /designstudio/index.html
 Allow: /designstudio/jan-persiel.html
 Allow: /designstudio/manifest.html
-Allow: /designstudio/netzwerk.html
 Allow: /designsysteme
 Allow: /designsysteme/index.html
 Allow: /designsysteme/design-systeme.html
@@ -17,7 +16,6 @@ Allow: /referenzen/index.html
 Allow: /referenzen/breuninger.html
 Allow: /referenzen/desknet.html
 Allow: /referenzen/fashback.html
-Allow: /referenzen/granitparts.html
 Allow: /referenzen/kaufhof.html
 
 Disallow: /cgi-bin
