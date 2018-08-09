@@ -1,0 +1,60 @@
+.button {
+  background: $base;
+  color: $core;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  padding: 14px 20px 12px;
+  font-size: 1.5rem;
+  font-family: JohnSansMediumProRegular;
+  line-height: 1; 
+  letter-spacing: .5px;
+  text-decoration: none !important;
+  margin: 2rem auto;
+  display: inline-block;
+  
+  &-cta {
+    background: $active1;
+    color: #fff;
+    border-color: $active1;
+
+    &:hover {
+      text-decoration: none;
+      background: darken($active1,10);
+      border-color: $active1;
+    }
+  }
+
+  &-small {
+    padding: 8px 12px 7px;
+    font-size: 1.15rem;
+  }
+
+  &-medium {
+    padding: 13px 20px 13px;
+    font-size: 2.25rem;
+  }
+
+  &-large {
+    padding: 18px 30px 18px;
+    font-size: 3rem;
+  }
+
+  &-center {
+    display: block;
+    min-width: 180px;
+    max-width: 20%; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  &:hover {
+    text-decoration: none;
+    border-color: #fff;
+    background: $core;
+    color: #fff; 
+  }
+
+
+  
+}

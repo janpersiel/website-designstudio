@@ -1,0 +1,53 @@
+// Rem output with px fallback
+@mixin font-size($sizeValue: 1) {
+	font-size: ($sizeValue * 16) * 1px;
+	font-size: $sizeValue * 1rem;
+}
+
+// Center block
+@mixin center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+// Clearfix
+@mixin clearfix() {
+	content: "";
+	display: table;
+	table-layout: fixed;
+}
+
+// Clear after (not all clearfix need this also)
+@mixin clearfix-after() {
+	clear: both;
+}
+
+// Breakpoints
+
+@mixin breakpoint($point) {
+  @if $point == xxl_and_up {
+    @media (min-width: 1280px) { @content ; }
+  }
+  @else if $point == up_to_xxl {
+    @media (max-width: 1279px) { @content ; }
+  }
+  @else if $point == xl_and_up {
+    @media (min-width: 960px) { @content ; }
+  }
+  @else if $point == up_to_xl {
+    @media (max-width: 959px) { @content ; }
+  }
+  @else if $point == l_and_up {
+    @media (min-width: 740px) { @content ; }
+  }
+  @else if $point == up_to_l {
+    @media (max-width: 739px) { @content ; }
+  }
+  @else if $point == m_and_up {
+    @media (min-width: 480px)  { @content ; }
+  }
+  @else if $point == up_to_m {
+    @media (max-width: 479px)  { @content ; }
+  }
+}

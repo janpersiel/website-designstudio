@@ -1,0 +1,47 @@
+.wrapper {
+  background: #ebebe8;
+  display: block;
+  max-width: 1400px;
+  margin: 0 auto; 
+}
+
+.innerwrapper {
+  @include breakpoint(l_and_up) {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+  }
+}
+
+.main,
+.sidebar {
+  background: #ebebe8;
+}
+
+.main {
+  &.hassidebar {
+    @include breakpoint(l_and_up) {
+      order: 1;
+      flex-basis: 2;
+      flex-grow: 2;
+      max-width: 700px; 
+    }
+  }
+}
+
+.sidebar {
+  @include breakpoint(l_and_up) {
+    order: 2;
+    flex-basis: 1;
+    flex-grow: 1;
+    max-width: 300px;
+  }
+  padding: 50px 20px 40px;
+  
+  &.referenzfakten {
+    padding-top: 100px;
+    order: -1;
+  }
+}
+

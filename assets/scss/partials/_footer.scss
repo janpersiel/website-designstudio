@@ -1,0 +1,66 @@
+.footer {
+  display: block;
+  width: 100%;
+  background: #FFF;
+  padding-top: 30px; 
+  .logo {
+    a {
+      width: 164px;
+      height: 54px;
+      display: block;
+      margin: 34px auto 28px;
+      text-align: center;
+      text-indent: -10000px;
+      background: transparent url('../img/logo-wings.svg') center center no-repeat;
+
+      @include breakpoint(l_and_up) {
+        width: 108px;
+        height: 129px;
+        display: block;
+        margin: 48px auto 36px;
+        background: transparent url('../img/logo-wings.svg') center center no-repeat;
+      }
+    }
+  }
+  .widgets {
+    @include breakpoint(l_and_up) {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    color: $core;
+    padding: 0 15px; 
+    font-family: JohnSansTextProRegular;
+    h4 {
+      font-family: JohnSansMediumProRegular;
+      font-weight: 400;
+      color: $magma;
+    }
+    p,
+    h4 {
+      line-height: 21px;
+      font-size: 13px;
+      margin-bottom: 7px;
+    }
+    @include breakpoint(l_and_up) {
+      padding: 0 10%;
+    }
+    .fslot {
+      max-width: 340px;
+      margin: 0 auto;
+      @include breakpoint(m_and_up) {
+        width: 27%;
+        margin: 50px 3%;
+        float: left;
+      }
+    }
+  }
+  .tothetop {
+    text-align: center;
+    padding: 8px 20px 20px;
+    display: block;
+    text-transform: uppercase;
+    font-size: 12px;
+    clear: both; 
+  }
+}
