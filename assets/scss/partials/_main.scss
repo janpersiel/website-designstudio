@@ -1,17 +1,22 @@
 .wrapper {
-  // background: #ebebe8;
+  background: #ebebe8;
   display: block;
   max-width: 1400px;
   margin: 0 auto;
 }
 
 .innerwrapper {
+  background: #ebebe8;
   @include breakpoint(l_and_up) {
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
     justify-content: center;
   }
+}
+
+body.blog .innerwrapper {
+  background: #fff;
 }
 
 .main,
