@@ -916,6 +916,22 @@
 		"oS": 0,
 		"sct": 1
 		},
+	"/blog.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/blog.html",
+		"oF": 0
+		},
+	"/blogpost.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/blogpost.html",
+		"oF": 0
+		},
 	"/datenschutz.html": {
 		"cB": 0,
 		"ft": 8192,
