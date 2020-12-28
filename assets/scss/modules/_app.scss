@@ -219,6 +219,10 @@
       box-shadow: rgba(0, 0, 0, 0.35) 0 4px 15px -5px;
     }
 
+    .blog-preview {
+      height: 360px;
+    }
+
     .portfolio-preview,
     .blog-preview {
       margin: 0;
@@ -226,7 +230,7 @@
       border-top-left-radius: 6px;
       border-top-right-radius: 6px;
       object-fit: cover;
-      height: 360px;
+
       &:hover {
         opacity: 0.5;
       }
