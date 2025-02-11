@@ -54,7 +54,7 @@
           Helvetica, Sans;
         text-decoration: none;
         &:hover {
-          color: #676b59;
+          color: $active2;
         }
       }
       &.active a {
@@ -91,11 +91,12 @@
           Helvetica, Sans;
         text-decoration: none;
         &:hover {
-          color: #676b59;
+          color: $active2;
         }
       }
       &.active a {
-        color: $core;
+        color: $active1;
+        font-family: "JohnSansHeavyProRegular";
       }
     }
   }
