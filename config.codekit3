@@ -291,6 +291,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/designstudio\/janpersielframed.webp" : {
+      "ft" : 8388608,
+      "iS" : 43998,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/designstudio\/janpersielframed.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/designstudio\/janpersiellarge.jpg" : {
       "ft" : 16384,
       "iS" : 161415,
@@ -302,6 +313,17 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/designstudio\/janpersiellarge.webp" : {
+      "ft" : 8388608,
+      "iS" : 305682,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/designstudio\/janpersiellarge.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/designstudio\/netzwerk.jpg" : {
@@ -317,6 +339,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/designstudio\/netzwerk.webp" : {
+      "ft" : 8388608,
+      "iS" : 116804,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/designstudio\/netzwerk.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/designstudio\/uiengineering-website-podcast.png" : {
       "ft" : 32768,
       "iS" : 51287,
@@ -328,6 +361,17 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/designstudio\/uiengineering-website-podcast.webp" : {
+      "ft" : 8388608,
+      "iS" : 65572,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/designstudio\/uiengineering-website-podcast.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/frame-600.png" : {
@@ -343,6 +387,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/frame-600.webp" : {
+      "ft" : 8388608,
+      "iS" : 33848,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/frame-600.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/frame-1200.png" : {
       "ft" : 32768,
       "iS" : 291695,
@@ -354,6 +409,17 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/frame-1200.webp" : {
+      "ft" : 8388608,
+      "iS" : 91708,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/frame-1200.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/frame.png" : {
@@ -369,6 +435,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/frame.webp" : {
+      "ft" : 8388608,
+      "iS" : 57118,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/frame.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/hafenhamburg.jpg" : {
       "ft" : 16384,
       "iS" : 92244,
@@ -380,6 +457,17 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/hafenhamburg.webp" : {
+      "ft" : 8388608,
+      "iS" : 220208,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/hafenhamburg.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/herr404.png" : {
@@ -395,6 +483,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/herr404.webp" : {
+      "ft" : 8388608,
+      "iS" : 57066,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/herr404.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/ipad-600.png" : {
       "ft" : 32768,
       "iS" : 166515,
@@ -406,6 +505,17 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/ipad-600.webp" : {
+      "ft" : 8388608,
+      "iS" : 41048,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/ipad-600.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/ipad-1200.png" : {
@@ -421,6 +531,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/ipad-1200.webp" : {
+      "ft" : 8388608,
+      "iS" : 122816,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/ipad-1200.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/ipad.png" : {
       "ft" : 32768,
       "iS" : 198759,
@@ -432,6 +553,17 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/ipad.webp" : {
+      "ft" : 8388608,
+      "iS" : 52020,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/ipad.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/logo-persiel-design-header-small.svg" : {
@@ -477,6 +609,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/logo.webp" : {
+      "ft" : 8388608,
+      "iS" : 4320,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/logo.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/map.jpg" : {
       "ft" : 16384,
       "iS" : 125533,
@@ -488,6 +631,17 @@
       "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/map.webp" : {
+      "ft" : 8388608,
+      "iS" : 278466,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/map.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/referenzen\/3erlogos-01.png" : {
@@ -503,6 +657,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/referenzen\/3erlogos-01.webp" : {
+      "ft" : 8388608,
+      "iS" : 8406,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/3erlogos-01.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/referenzen\/3erlogos-02.png" : {
       "ft" : 32768,
       "iS" : 8716,
@@ -514,6 +679,17 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/referenzen\/3erlogos-02.webp" : {
+      "ft" : 8388608,
+      "iS" : 8468,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/3erlogos-02.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/referenzen\/3erlogos-03.png" : {
@@ -529,6 +705,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/referenzen\/3erlogos-03.webp" : {
+      "ft" : 8388608,
+      "iS" : 10084,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/3erlogos-03.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/referenzen\/3erlogos-04.png" : {
       "ft" : 32768,
       "iS" : 6041,
@@ -540,6 +727,17 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/referenzen\/3erlogos-04.webp" : {
+      "ft" : 8388608,
+      "iS" : 8988,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/3erlogos-04.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/referenzen\/3erlogos-05.png" : {
@@ -555,6 +753,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/referenzen\/3erlogos-05.webp" : {
+      "ft" : 8388608,
+      "iS" : 7136,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/3erlogos-05.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/referenzen\/breuninger-3devices-home.jpg" : {
       "ft" : 16384,
       "iS" : 219408,
@@ -566,6 +775,17 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/referenzen\/breuninger-3devices-home.webp" : {
+      "ft" : 8388608,
+      "iS" : 115252,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/breuninger-3devices-home.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/referenzen\/breuninger-logo-740.jpg" : {
@@ -581,6 +801,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/referenzen\/breuninger-logo-740.webp" : {
+      "ft" : 8388608,
+      "iS" : 84656,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/breuninger-logo-740.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/referenzen\/desknet-logo-740.jpg" : {
       "ft" : 16384,
       "iS" : 25256,
@@ -592,6 +823,17 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/referenzen\/desknet-logo-740.webp" : {
+      "ft" : 8388608,
+      "iS" : 23540,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/desknet-logo-740.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/referenzen\/desknet-screens.jpg" : {
@@ -607,6 +849,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/referenzen\/desknet-screens.webp" : {
+      "ft" : 8388608,
+      "iS" : 165880,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/desknet-screens.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/referenzen\/fashback-logo-740.jpg" : {
       "ft" : 16384,
       "iS" : 33438,
@@ -618,6 +871,17 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/referenzen\/fashback-logo-740.webp" : {
+      "ft" : 8388608,
+      "iS" : 30284,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/fashback-logo-740.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/referenzen\/fashback-screens.jpg" : {
@@ -633,6 +897,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/referenzen\/fashback-screens.webp" : {
+      "ft" : 8388608,
+      "iS" : 90286,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/fashback-screens.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/referenzen\/galeria-3devices.jpg" : {
       "ft" : 16384,
       "iS" : 183067,
@@ -644,6 +919,17 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/referenzen\/galeria-3devices.webp" : {
+      "ft" : 8388608,
+      "iS" : 118520,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/galeria-3devices.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/img\/referenzen\/galeria-logo-740.jpg" : {
@@ -659,6 +945,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/referenzen\/galeria-logo-740.webp" : {
+      "ft" : 8388608,
+      "iS" : 31468,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/galeria-logo-740.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/referenzen\/granit-screens.jpg" : {
       "ft" : 16384,
       "iS" : 148137,
@@ -672,6 +969,17 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/referenzen\/granit-screens.webp" : {
+      "ft" : 8388608,
+      "iS" : 152532,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/granit-screens.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/img\/referenzen\/granitparts-logo-740.jpg" : {
       "ft" : 16384,
       "iS" : 24170,
@@ -683,6 +991,17 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/referenzen\/granitparts-logo-740.webp" : {
+      "ft" : 8388608,
+      "iS" : 22644,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/referenzen\/granitparts-logo-740.webp",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/assets\/js\/scripts.js" : {
